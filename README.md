@@ -1,3 +1,6 @@
+# Note
+This fork is turning this project into a format that the Unity Package Manager can consume.  So a lot of files have been deleted and a lot of meta files have been added.
+
 # LiteNetLib 0.9 indev
 
 Lite reliable UDP library for .NET Framework 3.5, Mono, .NET Core 2.1, .NET Standard 2.0.
